@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://samvid:samvid@ecom.9x7yx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtsecret":"secrecy"
+}
